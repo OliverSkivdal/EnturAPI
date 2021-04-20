@@ -13,3 +13,7 @@ For å komme i gang med denne må du først gjøre noen endringer i API.py filen
 3. Du kan velge hvor mange resultater du ønsker ved å endre tallet etter "numberOfDepartures:" på linje 20
 
 Det er også mulig å endre konfigurasjonen for 'sed' i Start.sh filen om du ønsker å ikke vise enkelte linjer eller innhold i output.
+
+Når alt er satt opp slik du ønsker det er det bare å kjøre Start.sh filen fra en terminal eller sette den opp til å kjøre automatisk på et gitt intervall.
+Om alt er gjort riktig vil du få ett resultat som ligner på dette:
+![Resultat](https://user-images.githubusercontent.com/63880823/115406525-8ffe5e80-a1ef-11eb-80c9-1bf59fd22d06.png)
