@@ -12,3 +12,5 @@ sleep 1
 cat .output.txt
 echo 
 echo 
+echo Data provided by entur.org under NLOD 
+echo 
