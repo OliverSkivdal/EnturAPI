@@ -1,5 +1,6 @@
 # EnturAPI
 En enkel måte å hente ut sanntidsdata fra Entur - Informasjon om Enturs API finnes på https://developer.entur.org/.
+
 Denne kan for eksempel brukes til å vise sanntidsdata for nærmeste stopp på en liten tekstskjerm som vist på bildet 
 ![Sanntidsskjerm](https://user-images.githubusercontent.com/63880823/115404858-000be500-a1ee-11eb-8160-c1fb37445f89.jpg)
 
